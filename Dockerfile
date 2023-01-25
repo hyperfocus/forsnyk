@@ -1,4 +1,4 @@
-FROM ubuntu:${UBUNTU_CODENAME}
+FROM ubuntu:20.04
 
  
 
